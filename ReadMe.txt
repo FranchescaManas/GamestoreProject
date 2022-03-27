@@ -14,4 +14,4 @@ Client    Mark              mark
 
 disclaimer:
 the idea of the application is to purchase games distributed by the administrator. However, this does not actually
-implement any APIs to download the actual game.
+implement any APIs or have the item in the database to download the actual game.
