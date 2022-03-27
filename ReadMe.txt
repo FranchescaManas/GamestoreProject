@@ -11,3 +11,7 @@ Admin     g                 g
 Client    Aries             aries
 Client    Myrna             myrna
 Client    Mark              mark
+
+disclaimer:
+the idea of the application is to purchase games distributed by the administrator. However, this does not actually
+implement any APIs to download the actual game.
